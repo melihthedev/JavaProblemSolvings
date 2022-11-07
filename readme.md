@@ -1,0 +1,1 @@
+# This repository is a collection of solutions of random problems in Java language.
